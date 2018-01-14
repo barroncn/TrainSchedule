@@ -1,4 +1,4 @@
-Train Schedule App
+# Train Schedule App
 
 [Check it out here!](https://barroncn.github.io/TrainSchedule/)
 
